@@ -1,505 +1,505 @@
 address_state,user_count
-US-CA,746
-US-TX,382
-Texas,324
-Ca,244
-California,238
-CA,232
-US-IL,154
-US-OH,148
-US,130
-US-GA,130
-US-MI,128
-Tx,126
-US-NC,124
-California ,116
-US-CO,114
-Ohio,114
-US-AZ,106
-US-MA,104
-US-PA,102
-US-AL,96
-Michigan,96
-Ga,96
-US-MO,94
-CA ,94
-US-NJ,92
-Pa,90
-US-MD,90
-Georgia,90
-US-SC,80
-US-IN,78
-US-TN,76
-US-VA,74
-IL,74
-US-MN,72
-Illinois,72
-US-KY,68
-US-WI,66
-Michigan ,64
-TX,64
-New Jersey,64
-Texas ,62
-US-NV,60
-Maryland,60
-Mi,58
-TN,58
-Indiana,58
-TX ,56
-NC,56
-PA,54
-Alabama,52
-MI,52
-Colorado,52
-US-LA,52
-Nc,46
-US-OK,46
-GA,46
-Arizona,46
-Missouri,44
-North Carolina,42
-NJ,42
-US-NY,42
-Il,40
-Wisconsin,40
-Utah,40
-US-UT,40
-IN,38
-Pennsylvania,38
-MD,38
-Illinois ,38
-US-FL,36
-US-AR,34
-Virginia,34
-Nj,32
-Ny,32
-Tennessee,32
-Mn,32
-Al,32
-Ky,30
-South Carolina,30
-MA,28
-OH,28
-Arkansas,28
-VA,28
-Georgia ,28
-Ma,28
-North Carolina ,28
-US-IA,28
-Missouri ,28
-Va,28
-Az,28
-IL ,26
-Indiana ,26
-MN,26
-CO,26
-Minnesota,26
-Ca ,26
-US-KS,26
-Louisiana,26
-LA,24
-US-NH,24
-La,24
-AZ,24
-SC,24
-NY,24
-Oklahoma,24
-In,22
-Louisiana ,22
-NJ ,22
-Ohio ,22
-Sc,22
-US-WV,22
-Co,22
-Iowa,22
-US-AK,20
-MI ,20
-MO,20
-Florida,20
-PA ,20
-United State,20
-Maryland ,20
-Kentucky,20
-US-MT,20
-New York,20
-Massachusetts,20
-Wi,20
-Fl,20
-Tn,20
-Mo,18
-NC ,18
-KY,18
-IA,18
-Md,18
-Tennessee ,18
-Maine,18
-Arizona ,18
-NV,18
-GA ,16
-Ok,16
-OH ,16
-MS,16
-Oh,16
-Alabama ,16
-Nevada,16
-New Jersey ,16
-De,16
-VA ,14
-Chicago,14
-AL,14
-CO ,14
-US-MS,14
-AR,14
-Kansas,14
-SC ,14
-Idaho,14
-Colorado ,12
-Virginia ,12
-New York ,12
-Pennsylvania ,12
-Wa,12
-WI,12
-FL,10
-Califonia,10
-US-SD,10
-KS,10
-Minnesota ,10
-South Carolina ,10
-ND,10
-Wisconsin ,10
-UT ,10
-TEXAS ,10
-Ms,10
-Washington,10
-South Dakota,10
-Ks,10
-Montana,10
-Kentucky ,10
-Kansas ,10
-Oklahoma ,10
-US-ID,10
-TN ,8
-Ut,8
-US-DE,8
-DE,8
-Nv,8
-Delaware,8
-MA ,8
-Ar,8
-New Hampshire,8
-US-WY,8
-AL ,8
-Mississippi,8
-US-RI,8
-OK,8
-US-WA,8
-UT,8
-United States,8
-Los Angeles,6
-LA ,6
-WV,6
-Alaska,6
-Massachusetts ,6
-MO ,6
-AR ,6
-MD ,6
-SD,6
-illinois,6
-Ga ,6
-california,6
-KS ,6
-Tx ,6
-mi,6
-Mississippi ,6
-Tennesse,6
-Illinios,6
-West Virginia,6
-Il ,6
-Rhode Island ,6
-Rhode Island,6
-Arkansas ,6
-FL ,6
-Nj ,6
-US-ND,6
-Washington ,6
-Mi ,6
-IN ,6
-ca,6
-US-CT,6
-Pa ,6
-DC,6
-OHIO ,6
-US-ME,6
-Iowa ,4
-Ak,4
-Houston ,4
-OHIO,4
-New jersey,4
-Nh,4
-Nebraska,4
-NV ,4
-Illinoise,4
-Ri,4
-Hawaii,4
-New jersey ,4
-Idaho ,4
-AK ,4
-new york,4
-pa,4
-md,4
-US-DC,4
-alabama,4
-INDIANA ,4
-Nc ,4
-Utah ,4
-US-PR,4
-mo,4
-San Jose,4
-CALIFORNIA ,4
-NH ,4
-WI ,4
-NY ,4
-AZ ,4
-new jersey,4
-NH,4
-RI,4
-Wi ,4
-Florida ,4
-Sc ,4
-ID,4
-Dc,4
-Los Angeles ,4
-Usa,4
-Nevada ,4
-Ma ,4
-Delaware ,4
-Mn ,4
-Taxas,4
-New Hampshire ,4
-Ky ,4
-Ct,4
-US-VI,4
-West Virginia ,4
-Ny ,4
-Wy,2
-Nortah,2
-Nv ,2
-Oregon ,2
-NE,2
-OKLAHOMA ,2
-KENTUCKY ,2
-Chicago ,2
-Nd,2
-Massachessets,2
-Sacramento,2
-Wyoming,2
-Wiscosin,2
-Shcenetady,2
-ME ,2
-mn,2
-DELAWARE ,2
-georgia,2
-Rhode island ,2
-Palms,2
-CAlifornia,2
-Connecticut,2
-Osun,2
-Mcpherson,2
-ID ,2
-MICHIGAN ,2
-mississippi,2
-KY ,2
-IDaho,2
-RUXIS,2
-New york,2
-Conneticut,2
-Indiana6,2
-Carolina ,2
-Pennesylvania,2
-Carlifornia,2
-State,2
-Virgini,2
-Indianapolis,2
-MT,2
-pennsylvania,2
-Tn ,2
-None,2
-America,2
-Al ,2
-Nee York City ,2
-nc,2
-Camden,2
-california ,2
-nv,2
-maryland,2
-"Oxnard,CA",2
-ohio ,2
-Anambra,2
-ARKANSAS,2
-Cali,2
-Wiscounsin ,2
-Califofnia,2
-Colorodo,2
-tx,2
-Minniesota,2
-Atlanta Georgia,2
-Ottumwa,2
-Louisisna ,2
-Texaa,2
-Puerto Rico,2
-Misouri ,2
-Montana ,2
-Virginia's ,2
-LAGOS,2
-MD. ,2
-Albama,2
-Nm,2
-GGazhbz,2
-Usay,2
-Austin ,2
-Fences ,2
-la,2
-Caifornia,2
-Fresno,2
-Md.,2
-OK ,2
-Ogun,2
-taxes,2
-MARYLAND ,2
-ma,2
-ND ,2
-Hi,2
-Pensilvania,2
-Wv,2
-Pensylvania,2
-Callifonia,2
-VIRGINIA,2
-Massachuesetts,2
-91352,2
-ILLINOIS ,2
-US-VT,2
-Airzona,2
-United STATES ,2
-Birminham,2
-Ogun State,2
-ca ,2
-Az ,2
-GEORGIA ,2
-New Jesery ,2
-Orlando,2
-WY,2
-South  carolina,2
-Ivano-frankifsk,2
-Untied State ,2
-Mary Giger ,2
- Virginia ,2
-Nh ,2
-North Dakota ,2
-arizona,2
-Plain,2
-Califonia ,2
-USA ,2
-Ca.,2
-Djjdh,2
-Indianna,2
-Taxes ,2
-S.D.,2
-Delta State,2
-Street 34 Nowtime,2
-Jcjcjn,2
-Tenn6,2
-Charlela Ln,2
-arkansas,2
-Us,2
-Ap,2
-Dallas,2
-nevada,2
-Georiga,2
- California,2
-hdctffthkuvhbgcv,2
- Texas,2
-District of Columbia ,2
-Virginal ,2
-Me ,2
-Md ,2
-Tennesee,2
-New JERSEY ,2
-Ia,2
-Buffalo,2
-London Dl,2
-nj,2
-Tomball,2
-United States Of America,2
-colorado,2
-michigan,2
-Barrow County,2
-St Pedro,2
-Michagan,2
-United State Ohio,2
-IOWA ,2
-ark,2
-mo ,2
-North Carliona,2
-Rouge,2
-Ivano Frakivsk,2
-Nik,2
-NM,2
-DC ,2
-Louisana,2
-Houston,2
-Gerogia ,2
-Kenturkey,2
-Pennelyvenia ,2
-Tennesesse ,2
-Rhodes island ,2
-South Cot,2
-Mt,2
-Oakland California ,2
-Metro Manila,2
-South Dakota ,2
-12,2
-Gergia,2
-Oh ,2
-Uu,2
-Hsksl,2
-Ks ,2
-bdbdb,2
-Hsjs,2
-Or,2
-Ok ,2
-Nueva York,2
-CA  ,2
-Karen,2
-Lagos State ,2
-South  Carolina ,2
-Id,2
-Miami,2
-michigan ,2
-Illinios ,2
-CA.,2
-Delta,2
-wi,2
-USA,2
-United States Of America ,2
-Va ,2
-Calibration,2
-Ark,2
-ny ,2
-WV ,2
-Hh,2
-California's ,2
-texas,2
-bBb,2
-Alaska ,2
-Arkansan,2
-AK,2
-OK.,2
-Colombus,2
-AE ,2
-Springfield ,2
-Ohie ,2
-CALIFORNIA,2
-Texax,2
-Wyoming ,2
-RHode island,2
-Indinana,2
+US-CA,1492
+US-TX,764
+Texas,648
+Ca,488
+California,476
+CA,464
+US-IL,308
+US-OH,296
+US-GA,260
+US,260
+US-MI,256
+Tx,252
+US-NC,248
+California ,232
+US-CO,228
+Ohio,228
+US-AZ,212
+US-MA,208
+US-PA,204
+Michigan,192
+Ga,192
+US-AL,192
+CA ,188
+US-MO,188
+US-NJ,184
+US-MD,180
+Pa,180
+Georgia,180
+US-SC,160
+US-IN,156
+US-TN,152
+US-VA,148
+IL,148
+Illinois,144
+US-MN,144
+US-KY,136
+US-WI,132
+New Jersey,128
+TX,128
+Michigan ,128
+Texas ,124
+Maryland,120
+US-NV,120
+Indiana,116
+TN,116
+Mi,116
+NC,112
+TX ,112
+PA,108
+MI,104
+Colorado,104
+US-LA,104
+Alabama,104
+Arizona,92
+US-OK,92
+GA,92
+Nc,92
+Missouri,88
+US-NY,84
+North Carolina,84
+NJ,84
+Utah,80
+Il,80
+US-UT,80
+Wisconsin,80
+IN,76
+Illinois ,76
+MD,76
+Pennsylvania,76
+US-FL,72
+US-AR,68
+Virginia,68
+Al,64
+Ny,64
+Tennessee,64
+Nj,64
+Mn,64
+South Carolina,60
+Ky,60
+Georgia ,56
+VA,56
+Ma,56
+Missouri ,56
+MA,56
+Va,56
+US-IA,56
+Az,56
+OH,56
+North Carolina ,56
+Arkansas,56
+IL ,52
+US-KS,52
+CO,52
+Minnesota,52
+Louisiana,52
+Indiana ,52
+MN,52
+Ca ,52
+SC,48
+LA,48
+AZ,48
+NY,48
+Oklahoma,48
+US-NH,48
+La,48
+Sc,44
+US-WV,44
+Co,44
+Ohio ,44
+Iowa,44
+NJ ,44
+In,44
+Louisiana ,44
+US-MT,40
+Fl,40
+Florida,40
+Wi,40
+United State,40
+Kentucky,40
+Tn,40
+MO,40
+US-AK,40
+New York,40
+Massachusetts,40
+Maryland ,40
+MI ,40
+PA ,40
+Md,36
+NC ,36
+NV,36
+IA,36
+Mo,36
+Arizona ,36
+Maine,36
+KY,36
+Tennessee ,36
+New Jersey ,32
+Ok,32
+Oh,32
+OH ,32
+MS,32
+GA ,32
+Nevada,32
+Alabama ,32
+De,32
+Chicago,28
+CO ,28
+AL,28
+Kansas,28
+SC ,28
+Idaho,28
+AR,28
+US-MS,28
+VA ,28
+Wa,24
+New York ,24
+Colorado ,24
+WI,24
+Virginia ,24
+Pennsylvania ,24
+US-SD,20
+TEXAS ,20
+FL,20
+Califonia,20
+Ks,20
+South Carolina ,20
+Oklahoma ,20
+UT ,20
+US-ID,20
+Wisconsin ,20
+ND,20
+South Dakota,20
+Kansas ,20
+Ms,20
+Minnesota ,20
+Kentucky ,20
+Washington,20
+KS,20
+Montana,20
+Delaware,16
+US-WY,16
+DE,16
+US-RI,16
+United States,16
+Mississippi,16
+TN ,16
+New Hampshire,16
+MA ,16
+Ar,16
+Ut,16
+US-WA,16
+OK,16
+UT,16
+AL ,16
+Nv,16
+US-DE,16
+US-ND,12
+Il ,12
+Washington ,12
+SD,12
+Illinios,12
+Tx ,12
+KS ,12
+Arkansas ,12
+Massachusetts ,12
+Nj ,12
+LA ,12
+ca,12
+Los Angeles,12
+Tennesse,12
+WV,12
+Mississippi ,12
+illinois,12
+MO ,12
+DC,12
+MD ,12
+West Virginia,12
+Pa ,12
+US-ME,12
+OHIO ,12
+US-CT,12
+FL ,12
+Mi ,12
+california,12
+Alaska,12
+AR ,12
+mi,12
+Rhode Island ,12
+Rhode Island,12
+IN ,12
+Ga ,12
+Taxas,8
+Ak,8
+Houston ,8
+OHIO,8
+mo,8
+San Jose,8
+CALIFORNIA ,8
+NH ,8
+WI ,8
+New jersey,8
+Nh,8
+NY ,8
+AZ ,8
+Nebraska,8
+new jersey,8
+NH,8
+RI,8
+NV ,8
+Wi ,8
+Florida ,8
+Sc ,8
+ID,8
+Dc,8
+Illinoise,8
+Los Angeles ,8
+Iowa ,8
+Usa,8
+Nevada ,8
+Ri,8
+Hawaii,8
+Ma ,8
+New jersey ,8
+Delaware ,8
+Idaho ,8
+AK ,8
+new york,8
+pa,8
+Mn ,8
+md,8
+New Hampshire ,8
+US-DC,8
+alabama,8
+Ky ,8
+Ct,8
+US-VI,8
+INDIANA ,8
+West Virginia ,8
+Ny ,8
+Nc ,8
+Utah ,8
+US-PR,8
+Springfield ,4
+S.D.,4
+Delta State,4
+Mary Giger ,4
+ Virginia ,4
+United State Ohio,4
+Street 34 Nowtime,4
+Nh ,4
+Jcjcjn,4
+GGazhbz,4
+Albama,4
+LAGOS,4
+USA ,4
+Ca.,4
+Ogun State,4
+Charlela Ln,4
+Montana ,4
+Misouri ,4
+Taxes ,4
+Airzona,4
+Puerto Rico,4
+arkansas,4
+Minniesota,4
+Georiga,4
+ California,4
+Tenn6,4
+Califofnia,4
+Wiscounsin ,4
+Cali,4
+Anambra,4
+Us,4
+hdctffthkuvhbgcv,4
+ Texas,4
+Ap,4
+ohio ,4
+Calibration,4
+US-VT,4
+Dallas,4
+United States Of America ,4
+District of Columbia ,4
+california ,4
+wi,4
+91352,4
+Me ,4
+Massachuesetts,4
+Camden,4
+nc,4
+VIRGINIA,4
+Nee York City ,4
+Virginal ,4
+America,4
+None,4
+pennsylvania,4
+Pensylvania,4
+Illinios ,4
+New JERSEY ,4
+Md ,4
+Ia,4
+AK,4
+Miami,4
+MT,4
+Fresno,4
+Buffalo,4
+London Dl,4
+Caifornia,4
+nj,4
+United States Of America,4
+la,4
+michigan,4
+Barrow County,4
+Tomball,4
+State,4
+Carlifornia,4
+St Pedro,4
+Fences ,4
+colorado,4
+Michagan,4
+Usay,4
+Pennesylvania,4
+Virginia's ,4
+IOWA ,4
+Tennesee,4
+Conneticut,4
+Texaa,4
+Louisisna ,4
+New york,4
+Ivano Frakivsk,4
+CA.,4
+North Carliona,4
+Rouge,4
+ark,4
+mo ,4
+MICHIGAN ,4
+Ottumwa,4
+Nik,4
+texas,4
+ID ,4
+NM,4
+Connecticut,4
+DC ,4
+Palms,4
+Pennelyvenia ,4
+Louisana,4
+Houston,4
+Gerogia ,4
+Kenturkey,4
+Atlanta Georgia,4
+Rhodes island ,4
+tx,4
+Colorodo,4
+Oh ,4
+Delta,4
+ARKANSAS,4
+"Oxnard,CA",4
+South Dakota ,4
+Ks ,4
+nv,4
+Tennesesse ,4
+South Cot,4
+Mt,4
+Indianapolis,4
+Oakland California ,4
+bdbdb,4
+Virgini,4
+Hsjs,4
+Metro Manila,4
+Al ,4
+Carolina ,4
+Shcenetady,4
+12,4
+Or,4
+Gergia,4
+Va ,4
+ny ,4
+Arkansan,4
+RUXIS,4
+IDaho,4
+Ok ,4
+KY ,4
+Wyoming,4
+Ark,4
+Karen,4
+Lagos State ,4
+Massachessets,4
+mississippi,4
+OKLAHOMA ,4
+NE,4
+Nueva York,4
+CA  ,4
+Oregon ,4
+South  Carolina ,4
+Indinana,4
+michigan ,4
+Mcpherson,4
+KENTUCKY ,4
+Id,4
+Wyoming ,4
+Ohie ,4
+Osun,4
+Uu,4
+CAlifornia,4
+DELAWARE ,4
+Indiana6,4
+Rhode island ,4
+USA,4
+AE ,4
+Texax,4
+Colombus,4
+Chicago ,4
+Tn ,4
+mn,4
+OK.,4
+maryland,4
+Nm,4
+Ogun,4
+georgia,4
+Callifonia,4
+ME ,4
+Hsksl,4
+Wiscosin,4
+Sacramento,4
+Nd,4
+Alaska ,4
+Nv ,4
+Nortah,4
+bBb,4
+Orlando,4
+Wy,4
+MD. ,4
+California's ,4
+Austin ,4
+Ivano-frankifsk,4
+RHode island,4
+CALIFORNIA,4
+ma,4
+nevada,4
+ILLINOIS ,4
+arizona,4
+North Dakota ,4
+Plain,4
+Wv,4
+United STATES ,4
+Birminham,4
+Untied State ,4
+Pensilvania,4
+Hi,4
+Hh,4
+ND ,4
+ca ,4
+MARYLAND ,4
+GEORGIA ,4
+taxes,4
+South  carolina,4
+WY,4
+New Jesery ,4
+Az ,4
+Califonia ,4
+WV ,4
+OK ,4
+Md.,4
+Djjdh,4
+Indianna,4
